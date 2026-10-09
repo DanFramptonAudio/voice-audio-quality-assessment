@@ -8,7 +8,7 @@ This project assesses the technical and perceptual quality of the original dialo
 
 ## Original recording
 
-**File:** `001_Blood Hunt_CH1_Excerpt_Flat.mp3`
+**File:** [Untouched original recording](001_Blood%20Hunt_CH1_Excerpt_Flat.mp3)
 
 This assessment concerns the untouched original recording only. No processing has been applied to the audio presented for this assessment. Processing and the finished master are documented separately in **Voice Processing & Final Delivery**.
 
